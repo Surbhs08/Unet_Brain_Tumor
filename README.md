@@ -56,10 +56,10 @@ for epoch in range(1, EPOCHS + 1):
 # Visualization
 Confusion Matrix: A heatmap to show the model's predictions.
 
-![Confusion matrix]( "Assets/CF.png")
+![Confusion matrix]( Assets/CF.png)
 
 Output Plot: A plot displaying the model's prediction outputs.
 
-![Accuracy]("Assets/ACCpng")
+![Accuracy](Assets/ACCpng)
 
 
